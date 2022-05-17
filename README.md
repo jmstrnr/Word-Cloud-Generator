@@ -14,3 +14,4 @@ For testing the application I used a variety of inputs, including:
 * A text file of The Lord of the Rings trilogy (lotr.txt) to test the file parsing functionality
 * The Wikipedia page on Ireland (https://en.wikipedia.org/wiki/Ireland) to test the URL parsing functionality
 The output files generated from the above inputs are contained in the "output" folder.# Word-Cloud-Generator
+# Word-Cloud-Generator
