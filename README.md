@@ -6,10 +6,10 @@ It will also output a text file containing all the words and their frequency in 
 
 Upon starting the application, the user will be prompted to choose between 4 options:
 
-1. - To enter the path for a text file. The text file will be parsed, and the resulting frequency table will be used to generate an output word-cloud image file and frequency table text file.
-2. - To enter a URL. The above process will occur, but while parsing the URL conditional logic is used to avoid adding words inside of a HTML tag.
-3. - To set the maximum number of words to be displayed in the output word-cloud image file.
-4. - To close the terminal and prevent further user input.
+1.  To enter the path for a text file. The text file will be parsed, and the resulting frequency table will be used to generate an output word-cloud image file and frequency table text file.
+2.  To enter a URL. The above process will occur, but while parsing the URL conditional logic is used to avoid adding words inside of a HTML tag.
+3.  To set the maximum number of words to be displayed in the output word-cloud image file.
+4.  To close the terminal and prevent further user input.
 
 For testing the application I used a variety of inputs, including:
 
