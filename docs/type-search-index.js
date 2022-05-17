@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ie.gmit.dip","l":"AbstractFrequencyTable"},{"l":"All Classes","u":"allclasses-index.html"},{"p":"ie.gmit.dip","l":"FrequencyTable"},{"p":"ie.gmit.dip","l":"IgnoredWords"},{"p":"ie.gmit.dip","l":"Parser"},{"p":"ie.gmit.dip","l":"Runner"},{"p":"ie.gmit.dip","l":"WordCloud"}];updateSearchResults();
