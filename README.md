@@ -1,8 +1,8 @@
 # Word Cloud Generator
 
-This application can allow the user to enter a text file or URL, and will generate a frequency table containing every word in the input image file or url, and its frequency.
-It will then output a word-cloud image file containing the most frequent words, with less frequent words represented using a smaller font-size.
-It will also output a text file containing all the words and their frequency in descending order, from most frequent to least frequent.
+This application can allow the user to enter a text file or URL, and will generate a frequency table containing every word in the input image file or url, and its frequency.  
+It will then output a word-cloud image file containing the most frequent words, with less frequent words represented using a smaller font-size.  
+It will also output a text file containing all the words and their frequency in descending order, from most frequent to least frequent.  
 
 Upon starting the application, the user will be prompted to choose between 4 options:
 
